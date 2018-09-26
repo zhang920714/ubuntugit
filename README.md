@@ -1,2 +1,0 @@
-# ubuntugit
-# macgit
